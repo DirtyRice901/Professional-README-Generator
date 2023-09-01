@@ -26,7 +26,7 @@ Select this project's licensed organization: ![MIT](https://img.shields.io/badge
 ## Contributing:
 https://github.com/coding-boot-camp/potential-enigma: starter code
 ## Tests
-![Watch Video Here](https://drive.google.com/file/d/1780p8qiSDCBrg9hEsT95wiEmAfbckm6I/view)
+[!Watch Video Here](https://drive.google.com/file/d/1780p8qiSDCBrg9hEsT95wiEmAfbckm6I/view)
 ## Questions
 For additional questions, reach out to me at the following below
 * GitHub: [github.com/https://github.com/DirtyRice901](https://github.com/https://github.com/DirtyRice901/)
