@@ -18,7 +18,7 @@ This project is for exposure to the importance of generating a polished and uniq
 
 npm i inquirer@8.2.4, NodeJS, utils
 ## Usage
-[!Preview](Professional-README-Generator/Develop/readmetemp/TempReadme.png)
+![Preview](Professional-README-Generator/Develop/readmetemp/TempReadme.png)
 
 ## License
 Select this project's licensed organization: ![MIT](https://img.shields.io/badge/undefined-MIT-yellow)
