@@ -29,5 +29,5 @@ https://github.com/coding-boot-camp/potential-enigma: starter code
 [!Watch Video Here](https://drive.google.com/file/d/1780p8qiSDCBrg9hEsT95wiEmAfbckm6I/view)
 ## Questions
 For additional questions, reach out to me at the following below
-* GitHub: (https://github.com/DirtyRice901/Professional-README-Generator)
+* GitHub: https://github.com/DirtyRice901/Professional-README-Generator
 * Email: reatriniti@gmail.com 
